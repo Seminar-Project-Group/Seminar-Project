@@ -1,0 +1,151 @@
+body {
+
+.border 
+    width: 300px;
+    height: 550px;
+    border-radius: 25px;
+    border: 25px solid green;
+    padding: 20px;
+    margin: 150px;
+    float: right;
+}
+
+/* Profile container */
+
+
+}
+.profile {
+    margin: 20px 0;
+}
+
+/* Profile sidebar */
+
+.profile-sidebar {
+    padding: 20px 0 10px 0;
+    background: #fff;
+}
+
+.profile-userpic img {
+    float: none;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+    -webkit-border-radius: 50% !important;
+    -moz-border-radius: 50% !important;
+    border-radius: 50% !important;
+}
+
+.profile-usertitle {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-usertitle-name {
+    color: green;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+
+
+.profile-userbuttons {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.profile-userbuttons .btn {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 6px 15px;
+    margin-right: 5px;
+}
+
+.profile-userbuttons .btn:last-child {
+    margin-right: 0px;
+}
+
+.profile-usermenu {
+    padding: 20px;
+    width: 100px;
+    height: 300px;
+    background: white;
+    
+}
+
+.profile-usermenu {
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+    margin: 40px;
+    float: right;
+    position: absolute;
+    top: 375px;
+    
+}
+    
+    
+.profile-usermenu ul li {
+    border-bottom: 1px solid #f0f4f7;
+}
+
+.profile-usermenu ul li:last-child {
+    border-bottom: none;
+}
+
+.profile-usermenu ul li a {
+    color: #93a3b5;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.profile-usermenu ul li a i {
+    margin-right: 2px;
+    font-size: 14px;
+}
+
+.profile-usermenu ul li a:hover {
+    background-color: #fafcfd;
+    color: #5b9bd1;
+}
+
+.profile-usermenu ul li.active {
+    border-bottom: none;
+}
+
+.profile-usermenu ul li.active a {
+    color: #5b9bd1;
+    background-color: #f6f9fb;
+    border-left: 2px solid #5b9bd1;
+    margin-left: -2px;
+}
+
+/* Profile Content */
+
+.profile-content {
+    padding: 20px;
+    background: #fff;
+    min-height: 460px;
+}
+
+.rectangle {
+
+    width: 50px;
+    height: 80px;
+    background: #fff;
+}
+
+.rcorners1 {
+    border-radius: 25px;
+    background: green;
+    padding: 20px;
+    width: 250px;
+    height: 300px;
+}
+
+.box padding: 20px;
+width: 200px;
+height: 290px;
+width:50px;
+height:80px;
+background:#fff;
